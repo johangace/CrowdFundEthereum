@@ -1,5 +1,3 @@
-# CrowdFundEthereum
-
 # Ethereum Crowdfunding Smart Contract
 
  - Create campaign
