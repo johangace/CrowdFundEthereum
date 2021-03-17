@@ -1,6 +1,6 @@
 # CrowdFundEthereum
 
-#Ethereum Crowdfunding Smart Contract
+# Ethereum Crowdfunding Smart Contract
 
  - Create campaign
  - Contribute
@@ -9,7 +9,7 @@
  - Approve and finalize spending
 
 
-**To Deploy
+#### To Deploy
 
 1. clone repo
 2.  Npm install
