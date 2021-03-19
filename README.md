@@ -10,6 +10,7 @@
 #### To Deploy
 
 1. clone repo
-2.  Npm install
-3.  cd ethereum 
-4. node deploy.js
+2. Npm install
+3. cd ethereum 
+4. node compile
+5. node deploy.js
